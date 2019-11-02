@@ -1,0 +1,83 @@
+yarn run v1.19.1
+$ react-scripts start
+Starting the development server...
+
+Failed to compile.
+
+Error in ./src/App.js
+Syntax error: Unterminated JSX contents (11:12)
+
+   9 |         <img src={log} lat="log">
+  10 |         <h2>Let's develop management system!</h2>
+> 11 |       </div>
+     |             ^
+  12 |     );
+  13 |   }
+  14 | }
+
+ @ ./src/index.js 13:11-27
+
+Compiling...
+Failed to compile.
+
+Error in ./src/App.js
+Syntax error: Unterminated JSX contents (11:12)
+
+   9 |         <img src={log} lat="log">
+  10 |         <h2>"Let's develop management system!"</h2>
+> 11 |       </div>
+     |             ^
+  12 |     );
+  13 |   }
+  14 | }
+
+ @ ./src/index.js 13:11-27
+
+Compiling...
+Failed to compile.
+
+Error in ./src/App.js
+Syntax error: Unterminated JSX contents (11:12)
+
+   9 |         <img src={log} lat="log">
+  10 |         <h2>"Let's develop management system!"</h2>
+> 11 |       </div>
+     |             ^
+  12 |     );
+  13 |   }
+  14 | }
+
+ @ ./src/index.js 13:11-27
+
+Compiling...
+Failed to compile.
+
+Error in ./src/App.js
+Syntax error: Unterminated JSX contents (11:12)
+
+   9 |         <img src={log} lat="log">
+  10 |         <h2>"Let's develop management system!"</h2>
+> 11 |       </div>
+     |             ^
+  12 |     );
+  13 |   }
+  14 | }
+
+ @ ./src/index.js 13:11-27
+
+Compiling...
+Failed to compile.
+
+Error in ./src/App.js
+Syntax error: Unterminated JSX contents (11:12)
+
+   9 |         <img src={log} lat="log">
+  10 |         <h2>"Let's develop management system!"</h2>
+> 11 |       </div>
+     |             ^
+  12 |     );
+  13 |   }
+  14 | }
+
+ @ ./src/index.js 13:11-27
+
