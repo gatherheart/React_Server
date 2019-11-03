@@ -1,0 +1,117 @@
+yarn run v1.19.1
+$ react-scripts start
+Starting the development server...
+
+Failed to compile.
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/Table' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 20:13-47
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableHead' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 24:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableBody' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 28:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableRow' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 32:16-53
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableCell' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 36:17-55
+
+Compiling...
+Failed to compile.
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/Table' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 20:13-47
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableHead' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 24:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableBody' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 28:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableRow' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 32:16-53
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableCell' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 36:17-55
+
+Compiling...
+Failed to compile.
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/Table' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 20:13-47
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableHead' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 24:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableBody' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 28:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableRow' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 32:16-53
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableCell' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 36:17-55
+
+Compiling...
+Failed to compile.
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/Table' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 20:13-47
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableHead' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 24:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableBody' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 28:17-55
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableRow' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 32:16-53
+
+Error in ./src/App.js
+Module not found: '@material-ui-core/TableCell' in /home/ubuntu/React_Project_Tutorial/management/src
+
+ @ ./src/App.js 36:17-55
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
